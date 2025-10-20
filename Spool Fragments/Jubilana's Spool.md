@@ -5,4 +5,5 @@ mapgenie-url: https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationI
 requirements:
   - "[[The Lost Merchant]]"
 rosary-cost: "500"
+act: "2"
 ---

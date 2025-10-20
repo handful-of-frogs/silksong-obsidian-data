@@ -5,4 +5,5 @@ mapgenie-url: https://mapgenie.io/hollow-knight-silksong/maps/pharloom?locationI
 requirements:
   - "[[My Missing Courier]]"
 rosary-cost: "270"
+act: "1"
 ---
